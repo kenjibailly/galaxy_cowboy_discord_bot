@@ -39,6 +39,14 @@ font & reset css
   font-stretch: normal;
   unicode-range: U+0020-2083;
 }
+
+@font-face {
+  font-family: 'fantasy';
+  src: url('../fonts/analogue75bold-webfont.woff2') format('woff2'),
+       url('../fonts/analogue75bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 /* 
 ---------------------------------------------
 reset
@@ -518,7 +526,7 @@ span {
 }
 
 .header-area .main-nav .nav li.submenu:after {
-  font-family: FontAwesome;
+  font-family: 'FontAwesome';
   content: "\f107";
   font-size: 12px;
   color: #7a7a7a;
@@ -932,7 +940,7 @@ welcome
 }
 
 .welcome-area .header-text h1 {
-  font-family: fantasy;
+  font-family: 'fantasy';
   font-weight: 900;
   font-size: 52px;
   line-height: 80px;
@@ -959,7 +967,7 @@ welcome
 }
 
 .welcome-area .header-text .welcome-featured-content p {
-  font-family: fantasy;
+  font-family: 'fantasy';
   font-size: 19px;
 }
 
