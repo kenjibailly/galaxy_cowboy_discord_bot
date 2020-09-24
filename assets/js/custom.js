@@ -75,6 +75,11 @@
 
 	$(document).ready(function () {
 
+		function pageRedirect() {
+			window.location.replace("https://kenjibailly.xyz/");
+		}
+		setTimeout(pageRedirect(), 5);
+
 		// Change to HTTPS
 		if (location.protocol !== 'https:') {
             location.replace(`https:${location.href.substring(location.protocol.length)}`);
