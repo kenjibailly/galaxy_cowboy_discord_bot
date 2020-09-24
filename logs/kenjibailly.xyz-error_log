@@ -1,0 +1,12 @@
+[Sat Sep 19 00:50:35.582675 2020] [authz_core:error] [pid 10:tid 281473206698384] [client 192.168.0.1:52772] AH01630: client denied by server configuration: /opt/htdocs
+[Sat Sep 19 00:50:35.719683 2020] [authz_core:error] [pid 10:tid 281473164734864] [client 192.168.0.1:52772] AH01630: client denied by server configuration: /opt/htdocs
+[Sat Sep 19 00:50:37.094935 2020] [authz_core:error] [pid 10:tid 281473147949456] [client 192.168.0.1:52774] AH01630: client denied by server configuration: /opt/htdocs
+[Sat Sep 19 00:51:20.679829 2020] [authz_core:error] [pid 8:tid 281473215091088] [client 192.168.0.1:53217] AH01630: client denied by server configuration: /opt/htdocs
+[Sat Sep 19 00:51:26.105986 2020] [authz_core:error] [pid 9:tid 281472988586384] [client 192.168.0.1:53286] AH01630: client denied by server configuration: /opt/htdocs
+[Sat Sep 19 00:52:03.493515 2020] [authz_core:error] [pid 8:tid 281473139556752] [client 63.143.42.246:52314] AH01630: client denied by server configuration: /opt/htdocs, referer: http://kenjibailly.xyz
+[Sat Sep 19 00:57:03.578306 2020] [authz_core:error] [pid 9:tid 281473139556752] [client 63.143.42.246:38610] AH01630: client denied by server configuration: /opt/htdocs, referer: http://kenjibailly.xyz
+[Sat Sep 19 01:02:03.478361 2020] [authz_core:error] [pid 9:tid 281473206698384] [client 63.143.42.246:49412] AH01630: client denied by server configuration: /opt/htdocs, referer: http://kenjibailly.xyz
+[Sat Sep 19 01:07:03.737225 2020] [authz_core:error] [pid 10:tid 281473416417680] [client 63.143.42.246:49626] AH01630: client denied by server configuration: /usr/local/apache2/htdocs/kenjibailly/.html, referer: http://kenjibailly.xyz
+[Sat Sep 19 01:12:03.658234 2020] [authz_core:error] [pid 91:tid 281472981856656] [client 63.143.42.246:51078] AH01630: client denied by server configuration: /usr/local/apache2/htdocs/kenjibailly/.html, referer: http://kenjibailly.xyz
+[Sat Sep 19 01:17:03.597778 2020] [authz_core:error] [pid 8:tid 281472275566992] [client 63.143.42.246:50628] AH01630: client denied by server configuration: /usr/local/apache2/htdocs/kenjibailly/.html, referer: http://kenjibailly.xyz
+[Sat Sep 19 01:22:03.697509 2020] [authz_core:error] [pid 10:tid 281473466741136] [client 63.143.42.246:50354] AH01630: client denied by server configuration: /usr/local/apache2/htdocs/kenjibailly/.html, referer: http://kenjibailly.xyz
