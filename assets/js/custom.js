@@ -79,6 +79,9 @@
 		if (location.protocol !== 'https:') {
             location.replace(`https:${location.href.substring(location.protocol.length)}`);
 		}
+
+		//Redirect
+		window.location = "https://kenjibailly.xyz";
 		
 		
 		$('a[href^="#welcome"]').addClass('active');
